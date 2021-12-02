@@ -1,0 +1,114 @@
+.w {
+    margin: 0 auto;
+    width: 1200px;
+}
+header {
+    height: 84px;
+    line-height: 84px;
+    border-bottom: 2px solid #b1191a;
+}
+.registerarea {
+    margin-top: 20px;
+    height: 522px;
+    border: 1px solid #dfdfdf;
+}
+.registerarea h3 {
+    padding: 0 10px;
+    height: 41px;
+    line-height: 41px;
+    border-bottom: 1px solid #dfdfdf;
+    background-color: #ececec;
+    font-size: 18px;
+    font-weight: normal;
+}
+.registerarea  h3 i {
+    float: right;
+    font-size: 14px;
+}
+.registerarea h3 i a {
+    color: #c81623;
+}
+.reg_form {
+    width: 600px;
+    margin: 50px auto 0;
+}
+.reg_form ul li {
+    margin-bottom: 20px;
+}
+.reg_form ul li label {
+    display: inline-block;
+    width: 88px;
+    font-size: 14px;
+    text-align: right;
+}
+.reg_form ul li input[type="text"] {
+    width: 240px;
+    height: 36px;
+    border: 1px solid #999999;
+}
+.wrong {
+    color: #df3033;
+}
+.wrong_icon,.success_icon {
+    display: inline-block;
+    vertical-align: middle;
+    width: 20px;
+    height: 20px;
+    background: url(../images/error.png) no-repeat;
+}
+.success {
+    color: #40b83f;
+}
+.success_icon {
+    background: url(../images/success.png) no-repeat;
+}
+.safe {
+    padding-left: 166px;
+}
+.safe em {
+    color: white;
+    padding: 0 12px;
+}
+.ruo {
+    background-color: #de1111;
+}
+.zhong {
+    background-color: #40b83f;
+}
+.qiang {
+    background-color: #f79100;
+}
+.agree {
+    padding-left: 92px;
+    padding-top: 22px;
+}
+.xy {
+    color: #1ba1e6;
+}
+.register_ok {
+    margin-left: 110px;
+    margin-top: 30px;
+    width: 200px;
+    height: 34px;
+    background-color: #c81623;
+    color: #fff;
+    font-size: 14px;
+    cursor: pointer;
+}
+.mod_copyright {
+    padding-top: 20px;
+    text-align: center;
+}
+.links {
+    margin-bottom: 15px;
+}
+.links a {
+    padding: 0 14px;
+    border-right: 1px solid #999999;
+}
+.links a:last-child {
+    border-right: none;
+}
+.copyright {
+    line-height: 20px;
+}
